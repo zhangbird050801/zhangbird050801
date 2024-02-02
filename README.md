@@ -6,8 +6,11 @@
 ## 🏅 Achievements
 
 ## 🛠️ Skills
+<ul>
+  <li>🖥️ Computer</li>
+</ul>
 
-### 🖥️ Languages
+### Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 ### Front-End Development
@@ -15,7 +18,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📝 Blog
-
+<a href="https://blog.csdn.net/DaphneOdera17">CSDN</a>
 
 ## 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,4 +29,6 @@
 </a>
 
 ## 🔗 Links
-
+<ul>
+  <li><a href="https://blog.csdn.net/DaphneOdera17">CSDN</a></li>
+</ul>
