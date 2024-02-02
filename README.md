@@ -44,4 +44,8 @@
 <a href="https://www.instagram.com/beiweishiqiduzhuanjiao/">
   <img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white">
 </a>
+<br>
+<a href="https://www.facebook.com/profile.php?id=61553843763952">
+  <img src="https://img.shields.io/badge/facebook-0866FF?logo=facebook&logoColor=white">
+</a>
 
