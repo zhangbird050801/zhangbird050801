@@ -22,6 +22,8 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ## 📝 Blog
+<a href="https://daphneodera17.github.io/">Birdy's Blog</a>
+<br>
 <a href="https://blog.csdn.net/DaphneOdera17">CSDN</a> 
 <br>
 <a href="https://github.com/DaphneOdera17/notes">Studying Notes</a>
