@@ -3,6 +3,9 @@
 ## 🚀 About Me
 <ul>
   <li>🎓 A student in Guangxi University</li>
+  <li>👾 I am learning a lot of things now</li>
+  <li>👻 I'm really interested in computer science, but I'm a rookie. </li>
+  <li>🥰 Happy to make new friends and communicate together</li>
 </ul>
 
 ## 🏅 Achievements
