@@ -21,7 +21,7 @@
 ### Front-End Development
 ![html](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)
 
 ### Back-End Development
 ...
