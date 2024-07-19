@@ -3,8 +3,7 @@
 ## 🚀 About Me
 <ul>
   <li>🎓 A student in Guangxi University</li>
-  <li>👻 I'm really interested in computer science, but I'm a rookie. </li>
-  <li>🥰 Happy to make new friends and communicate together</li>
+  <li>👻 Happy to make new friends and communicate together</li>
 </ul>
 
 ## 🏅 Achievements
@@ -22,6 +21,10 @@
 ### Front-End Development
 ![html](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
+### Back-End Development
+...
 
 ## 📝 Blog
 <a href="https://www.birdyweb.top/">Birdy's Blog</a>
