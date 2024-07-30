@@ -3,7 +3,6 @@
 ## 🚀 About Me
 <ul>
   <li>🎓 A student in Guangxi University</li>
-  <li>👻 Happy to make new friends and communicate together</li>
 </ul>
 
 ## 🏅 Achievements
