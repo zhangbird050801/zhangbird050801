@@ -3,27 +3,8 @@
 ## 🚀 About Me
 <ul>
   <li>🎓 A student in Guangxi University</li>
+  <li>🖥️ Love Computer</li>
 </ul>
-
-## 🏅 Achievements
-
-## 🛠️ Skills
-<ul>
-  <li>🖥️ Computer</li>
-</ul>
-
-### Languages
-![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![c](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/c++-00599C?logo=cplusplus&logoColor=white)
-
-### Front-End Development
-![html](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)
-
-### Back-End Development
-...
 
 ## 📝 Blog
 <a href="https://www.birdyweb.top/">Birdy's Blog</a>
