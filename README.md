@@ -3,7 +3,7 @@
 ## 🚀 About Me
 <ul>
   <li>🎓 A student in Guangxi University</li>
-  <li>🖥️ Love Computer</li>
+  <li>🖥️ Studying Computer Science ...</li>
 </ul>
 
 ## 📝 Blog
