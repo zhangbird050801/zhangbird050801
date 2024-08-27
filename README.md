@@ -6,11 +6,11 @@
 </ul>
 
 ## 📝 Blog
-<a href="https://www.birdyweb.top/">Birdy's Blog</a>
+我的个人网站：<a href="https://www.birdyweb.top/">Birdy's Blog</a>
 <br>
-<a href="https://blog.csdn.net/DaphneOdera17">CSDN</a> 
+CSDN：<a href="https://blog.csdn.net/DaphneOdera17">CSDN</a> 
 <br>
-<a href="https://github.com/DaphneOdera17/notes">Studying Notes</a>
+学习笔记：<a href="https://github.com/DaphneOdera17/notes">Studying Notes</a>
 
 ## 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
