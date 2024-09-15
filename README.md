@@ -1,16 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
-##  About Me
-<ul>
-  <li>🖥️ Studying Computer Science ...</li>
-</ul>
-
-## 📝 Blog
-我的个人网站：<a href="https://www.birdyweb.top/">Birdy's Blog</a>
-<br>
-CSDN：<a href="https://blog.csdn.net/DaphneOdera17">CSDN</a> 
-<br>
-学习笔记：<a href="https://github.com/DaphneOdera17/notes">Studying Notes</a>
+<img src="https://typora-birdy.oss-cn-guangzhou.aliyuncs.com/80923-de_tu-dan_se_mo_shi-tian_kong-qi_fen-shi_jie_de_tu-1920x1080.jpg" widtH="100%" height="50%x">
 
 ## 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,11 +10,12 @@ CSDN：<a href="https://blog.csdn.net/DaphneOdera17">CSDN</a>
 </a>
 
 ## 🔗 Links
-<a href="https://www.birdyweb.top">My own website</a>
+<a href="https://www.birdyweb.top">个人网站</a>
 <br>
 <a href="https://blog.csdn.net/DaphneOdera17">CSDN</a>
 <br>
 <a href="https://stackoverflow.com/users/22276736/birdy">
   <img src="https://img.shields.io/badge/stackoverflow-F58025?logo=stackoverflow&logoColor=white">
 </a>
-
+<br>
+学习笔记：<a href="https://github.com/DaphneOdera17/notes">Studying Notes</a>
