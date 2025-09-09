@@ -15,5 +15,4 @@
 <a href="https://stackoverflow.com/users/22276736/birdy">
   <img src="https://img.shields.io/badge/stackoverflow-F58025?logo=stackoverflow&logoColor=white">
 </a>
-<br>
-学习笔记：<a href="https://github.com/DaphneOdera17/notes">Studying Notes</a>
+
