@@ -10,7 +10,8 @@
 </a>
 
 ## 🔗 Links
-<a href="https://www.birdyweb.top">个人网站</a>
+<a href="https://zhangbird.site/">个人网站</a>
+<a href="https://www.birdyweb.top">博客网站</a>
 <br>
 <a href="https://stackoverflow.com/users/22276736/birdy">
   <img src="https://img.shields.io/badge/stackoverflow-F58025?logo=stackoverflow&logoColor=white">
